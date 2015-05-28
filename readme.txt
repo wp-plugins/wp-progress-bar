@@ -25,6 +25,10 @@ Add progress bar in your posts easily, responsive and retina, full customize, co
 * Compatible with Google Chrome, FireFox, Opera, Safari, +IE9 and with mobile devices like iPad, iPhone, Android, etc.
 * One shortcode & Easy to use.
 
+### Shortcode To Widget
+
+* Want WP Progress Bar widget? try [Shortcode To Widget](http://wp-time.com/shortcode-to-widget/) plugin.
+
 ### Live Demo
 
 * [http://wp-time.com/wordpress-progress-bar-plugin/](http://wp-time.com/wordpress-progress-bar-plugin/)
